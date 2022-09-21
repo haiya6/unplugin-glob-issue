@@ -1,0 +1,10 @@
+{
+  "name": "unplugin-glob-issue",
+  "scripts": {
+    "dev": "vite"
+  },
+  "devDependencies": {
+    "unplugin-glob": "^0.1.1",
+    "vite": "^3.1.3"
+  }
+}
